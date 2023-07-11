@@ -18,11 +18,17 @@
 # Requirements:
 
 **Programming Language:** Choose a programming language that supports API interactions, such as Python or JavaScript.
+
 **Geolocation API:** Select a reliable and well-documented geolocation API that provides accurate location data.
+
 **API Credentials:** Obtain the necessary API credentials (API key, username, etc.) from the geolocation API provider.
+
 **Libraries or SDKs:** Utilize appropriate libraries or SDKs to simplify API interactions, such as GeoPy or Google Maps API client libraries.
+
 **Input Data:** Decide on the type of input data (textual addresses, IP addresses) that will be used for location prediction.
+
 **Testing:** Develop test cases to verify the accuracy and reliability of the location predictions.
+
 These steps and requirements should help you get started with developing the "GeoLocAI: Intelligent Location Prediction using Geolocation APIs" project. Remember to refer to the documentation and guidelines provided by the chosen geolocation API for specific implementation details.
 
 
